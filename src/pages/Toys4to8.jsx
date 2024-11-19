@@ -16,7 +16,7 @@ const Toys4to8 = () => {
   const navigate = useNavigate();
 
   const toys = [
-    { name: "Lego Building Set", price: "1500", image: "https://ik.imagekit.io/x59vn03uu/ToyStore/a2.jpg?updatedAt=1732008881384" },
+    { name: "Lego Building Set", price: "1500", image: "a2.jpg" },
     { name: "Action Figure", price: "1200", image: "https://ik.imagekit.io/x59vn03uu/ToyStore/a3.webp?updatedAt=1732008875359" },
     { name: "Toy Car", price: "800", image: "https://ik.imagekit.io/x59vn03uu/ToyStore/a4.webp?updatedAt=1732008876997" },
     { name: "Funskool Games, Snakes & Ladders", price: "900", image: "https://ik.imagekit.io/x59vn03uu/ToyStore/a5.jpg?updatedAt=1732008882528" },
