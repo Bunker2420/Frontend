@@ -2,7 +2,7 @@
 import axios from 'axios'
 
 
-const API = 'http://localhost:5000'
+const API = 'https://server-y6vp.onrender.com'
 
 // ProductEndPonts
 const getProducts = () => axios.get(`${API}/products/all`)
