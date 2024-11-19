@@ -16,79 +16,79 @@ const Toys4to8 = () => {
   const navigate = useNavigate();
 
   const toys = [
-    { name: "Lego Building Set", price: "1500", image: "../public/a2.jpg" },
-    { name: "Action Figure", price: "1200", image: "../public/a3.webp" },
-    { name: "Toy Car", price: "800", image: "../public/a4.webp" },
-    { name: "Funskool Games, Snakes & Ladders", price: "900", image: "../public/a5.jpg" },
+    { name: "Lego Building Set", price: "1500", image: "https://ik.imagekit.io/x59vn03uu/ToyStore/a2.jpg?updatedAt=1732008881384" },
+    { name: "Action Figure", price: "1200", image: "https://ik.imagekit.io/x59vn03uu/ToyStore/a3.webp?updatedAt=1732008875359" },
+    { name: "Toy Car", price: "800", image: "https://ik.imagekit.io/x59vn03uu/ToyStore/a4.webp?updatedAt=1732008876997" },
+    { name: "Funskool Games, Snakes & Ladders", price: "900", image: "https://ik.imagekit.io/x59vn03uu/ToyStore/a5.jpg?updatedAt=1732008882528" },
     {
       name: "Funskool Handycrafts",
       price: "700",
-      image: "../public/a6.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/a6.jpg?updatedAt=1732008882027",
     },
     {
       name: "Fisher Price Magnetic Puzzle",
       price: "900",
-      image: "../public/z21.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z21.jpg?updatedAt=1732008899908",
     },
     {
       name: "Little Genius Wood Alphabet Turtle Puzzle",
       price: "100",
-      image: "../public/z22.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z22.jpg?updatedAt=1732008900309",
     },
     {
       name: "Little Genius My Face Puzzle",
       price: "600",
-      image: "../public/z23.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z23.jpg?updatedAt=1732008900476",
     },
     {
       name: "Little Genius Number Butterfly Puzzle Strip",
       price: "900",
-      image: "../public/z24.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z24.jpg?updatedAt=1732008900839",
     },
     {
       name: "University Sort It Out",
       price: "100",
-      image: "../public/z25.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z25.jpg?updatedAt=1732008901394",
     },
     {
       name: "Ravensburger 121250 72 pieces",
       price: "1000",
-      image: "../public/z26.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z26.jpg?updatedAt=1732008901650",
     },
     {
       name: "Sunta ABC Puzzle Fun in Circle",
       price: "2000",
-      image: "../public/a11.jfif",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/a11.jfif?updatedAt=1732008887838",
     },
     {
       name: "Skillofun Wooden Theme Puzzle",
       price: "950",
-      image: "../public/z28.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z28.jpg?updatedAt=1732008902037",
     },
     {
       name: "Skillofun Wooden Theme Puzzle Standard Teddy Bear ",
       price: "200",
-      image: "../public/z29.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z29.jpg?updatedAt=1732008903724",
     },
     {
       name: "Melissa & Doug 730 Pets Sound Puzzle",
       price: "500",
-      image: "../public/z30.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z30.jpg?updatedAt=1732008903227",
     },
     {
       name: "Funskool-Handycrafts Pot Mania",
       price: "4000",
-      image: "../public/z31.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z31.jpg?updatedAt=1732008903462",
     },
     {
       name: "Skillofun Wooden Theme Puzzle Standard Ship Knobs",
       price: "300",
-      image: "../public/z32.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z32.jpg?updatedAt=1732008904077",
     },
     {
       name: "Novo Baby Colorful Wooden Puzzle Set Featuring",
       price: "800",
-      image: "../public/z33.jpg",
+      image: "https://ik.imagekit.io/x59vn03uu/ToyStore/z33.jpg?updatedAt=1732008904947",
     }
     // Add other toys as needed...
   ];
